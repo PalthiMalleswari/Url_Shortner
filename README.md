@@ -17,7 +17,10 @@ A professional URL shortener application built with **Django**, **Python**, **HT
 - **Frontend**: HTML, CSS  
 
 ---
+## Demo
+[video](https://youtu.be/oNud52NRsRA)
 
+---
 ## Prerequisites  
 - Python 3.8+  
 - pip (Python package installer)  

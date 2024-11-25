@@ -35,26 +35,26 @@ A professional URL shortener application built with **Django**, **Python**, **HT
 2. **Create a Virtual Environment**
 
     ```bash
-    Copy code
+   
     python -m venv shortener_env  
     source shortener_env/bin/activate  # On Windows: shortener_env\Scripts\activate
 
 3. **Install Dependencies**
 
     ```bash
-    Copy code
+  
     pip install -r requirements.txt
 
 4. **Apply Migrations**
 
     ```bash
-    Copy code
+  
     python manage.py makemigrations  
     python manage.py migrate
 5. **Run the Development Server**
 
     ```bash
-    Copy code
+  
     python manage.py runserver
     Access the Application
 Open your browser and navigate to: http://127.0.0.1:8000/

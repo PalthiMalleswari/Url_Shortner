@@ -29,8 +29,8 @@ A professional URL shortener application built with **Django**, **Python**, **HT
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/django-url-shortener.git
-   cd django-url-shortener
+   git clone https://github.com/PalthiMalleswari/Url_Shortner.git
+   cd urlshortener
 
 2. **Create a Virtual Environment**
 
